@@ -10,6 +10,11 @@ The code is provided for review purposes only as part of a recruitment process. 
 
 > A comprehensive React-based user authentication and role-based access control system with extensive end-to-end testing coverage using Playwright. Features secure authentication, admin panel, internationalization, dark mode, and production-ready security practices.
 
+<img width="1230" height="959" alt="image" src="https://github.com/user-attachments/assets/3c5d4de5-2a6a-4131-95f2-b6872007f078" />
+<img width="1934" height="598" alt="image" src="https://github.com/user-attachments/assets/4c58293c-54fd-4397-8e61-d17248558525" />
+<img width="1925" height="740" alt="image" src="https://github.com/user-attachments/assets/9a08ada6-d578-4557-9a51-ef9cb0e542ae" />
+
+
 ## Table of Contents
 
 - [Features](#features)
