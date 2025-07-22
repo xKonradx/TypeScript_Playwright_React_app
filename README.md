@@ -1,3 +1,6 @@
+## License
+The code is provided for review purposes only as part of a recruitment process. All rights reserved. Modification, copying, or use for any other purposes is strictly prohibited.
+
 # React Authentication System with Playwright E2E Testing
 
 [![License](https://img.shields.io/badge/license-ISC-blue.svg)](LICENSE)
