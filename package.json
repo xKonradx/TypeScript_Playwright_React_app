@@ -1,0 +1,47 @@
+{
+  "name": "user-authentication-system",
+  "version": "1.0.0",
+  "description": "A comprehensive React-based authentication system with role-based access control and end-to-end testing",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "preview": "cd frontend && npm run preview",
+    "lint": "cd frontend && npm run lint",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report",
+    "test:ui": "playwright test --ui",
+    "install:all": "npm install && cd frontend && npm install",
+    "clean": "rm -rf frontend/dist && rm -rf test-results && rm -rf playwright-report",
+    "setup": "npm run install:all && playwright install",
+    "ci": "npm run build && npm run test"
+  },
+  "keywords": [
+    "react",
+    "typescript",
+    "authentication",
+    "authorization",
+    "material-ui",
+    "playwright",
+    "testing",
+    "security"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.1",
+    "playwright": "^1.54.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

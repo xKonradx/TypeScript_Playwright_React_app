@@ -1,0 +1,28 @@
+
+[
+  {
+    "username": "admin",
+    "password": "adminpassword",
+    "role": "admin"
+  },
+  {
+    "username": "validUser",
+    "password": "validPassword",
+    "role": "user"
+  },
+  {
+    "username": "testuser",
+    "password": "testpassword",
+    "role": "user"
+  },
+  {
+    "username": "existinguser",
+    "password": "StrongPass123!",
+    "role": "user"
+  },
+  {
+    "username": "erroruser",
+    "password": "errorpass",
+    "role": "user"
+  }
+]
